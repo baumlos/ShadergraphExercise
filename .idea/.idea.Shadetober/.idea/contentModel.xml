@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="ButtonManager.cs" t="Include" />
+          <e p="LightFlicker.cs" t="Include" />
           <e p="Rotate.cs" t="Include" />
           <e p="RotateAround.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
