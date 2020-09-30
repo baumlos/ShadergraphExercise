@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f877de-28ca-442a-a1da-e11b26c64cfe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shadetober/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shadetober/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shadetober/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shadetober/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_fire.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/m_fire.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/m_fire_toon.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/m_fire_toon.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShaderScenes/s1_toonfire.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShaderScenes/s1_toonfire.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShaderScenes/s2_fire.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShaderScenes/s2_fire.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="92f877de-28ca-442a-a1da-e11b26c64cfe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +62,7 @@
       <workItem from="1601238674234" duration="1056000" />
       <workItem from="1601322195939" duration="1570000" />
       <workItem from="1601346909124" duration="1055000" />
-      <workItem from="1601414953579" duration="814000" />
+      <workItem from="1601414953579" duration="1450000" />
     </task>
     <servers />
   </component>
