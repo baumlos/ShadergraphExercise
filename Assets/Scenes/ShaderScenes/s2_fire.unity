@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 2035111234}
-  m_IndirectSpecularColor: {r: 130.96178, g: 162.2124, b: 214.64185, a: 1}
+  m_IndirectSpecularColor: {r: 130.9642, g: 162.18576, b: 214.54909, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -616,7 +616,7 @@ MonoBehaviour:
       enableBigTilePrepass: 0
       isFptlEnabled: 0
   clearColorMode: 1
-  backgroundColorHDR: {r: 0.02429691, g: 0.059288077, b: 0.13207549, a: 0}
+  backgroundColorHDR: {r: 0.0658677, g: 0.030037379, b: 0.14150941, a: 0}
   clearDepth: 1
   volumeLayerMask:
     serializedVersion: 2

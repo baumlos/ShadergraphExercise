@@ -8,9 +8,17 @@
         <e p="Scripts" t="Include">
           <e p="ButtonManager.cs" t="Include" />
           <e p="LightFlicker.cs" t="Include" />
+          <e p="PortalValuesChange.cs" t="Include" />
           <e p="Rotate.cs" t="Include" />
           <e p="RotateAround.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="Shader" t="Include">
+          <e p="ColorReplaer.shader" t="Include" />
+          <e p="Includes" t="Include">
+            <e p="ColorReplacer.hlsl" t="Include" />
+            <e p="ToonLightning.hlsl" t="Include" />
+          </e>
         </e>
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">
